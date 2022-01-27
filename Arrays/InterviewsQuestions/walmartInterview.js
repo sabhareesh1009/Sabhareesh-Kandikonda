@@ -1,12 +1,14 @@
-// Arr = [100, 50, 25, 65, 90]
+Arr = [100, 50, 25, 65, 90]
 
-// Target: 140
+Target: 140
 
-// Output: 1, 4
+Output: 1, 4
 
+// O(N)
+// O(N^2)
 // A+B = target
-// B = target -A
-/* function twoNumSum(array, target) {
+B = target - A
+ function twoNumSum(array, target) {
   let numObj = {};
   for(let i=0; i< array.length; i++) {
   const currentNum = target - array[i];
@@ -21,7 +23,7 @@
 const Arr = [100, 50, 25, 65, 90];
 const target= 140
 console.log(twoNumSum(Arr, target));
- */
+
  
  
 /*  Const q  = new Queue();
@@ -67,14 +69,14 @@ console.log(twoNumSum(Arr, target));
       }
       return result
     }
-    
+
     enqueue(n) {
       this.queue.push(n);
     }
    }
    
    const q = new StackQueue([]);
-    console.log(q); 
+  console.log(q); 
    q.enqueue(2);
    q.enqueue(10)
    q.enqueue(12)
@@ -105,40 +107,11 @@ console.log(twoNumSum(Arr, target));
    N steps?
    Allowed that 1 step or 2 step at a time */
    
-   
     // f(n) = f(1) + 
-  
-  
-   
-  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-  
+    // Javascript html css and problem solving(Arrays and strings) time complexity and space topics brute approach
+    // 2questions
+    // 2hr (1hr + 1hr) => nuvu company interview standerds
+
+
+
+    // DOM manupulation Javascript css sematic HTML Problem solving(Arrays and Strings) time complexity and space complexity
